@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		949767FA222622C2008EB01A /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949767F9222622C2008EB01A /* PhotoCollectionViewCell.swift */; };
+		949767FD222631B9008EB01A /* PhotoCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 949767FC222631B9008EB01A /* PhotoCollectionViewCell.xib */; };
 		E102E02A216F6FC200709E56 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E102E029216F6FC200709E56 /* AppDelegate.swift */; };
 		E102E02C216F6FC200709E56 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E102E02B216F6FC200709E56 /* ViewController.swift */; };
 		E102E02F216F6FC200709E56 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E102E02D216F6FC200709E56 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		949767F9222622C2008EB01A /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
+		949767FC222631B9008EB01A /* PhotoCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PhotoCollectionViewCell.xib; sourceTree = "<group>"; };
 		E102E026216F6FC200709E56 /* CollectionViewTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionViewTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E102E029216F6FC200709E56 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E102E02B216F6FC200709E56 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				E102E032216F6FC400709E56 /* LaunchScreen.storyboard */,
 				E102E035216F6FC400709E56 /* Info.plist */,
 				949767F9222622C2008EB01A /* PhotoCollectionViewCell.swift */,
+				949767FC222631B9008EB01A /* PhotoCollectionViewCell.xib */,
 			);
 			path = CollectionViewTutorial;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E102E034216F6FC400709E56 /* LaunchScreen.storyboard in Resources */,
+				949767FD222631B9008EB01A /* PhotoCollectionViewCell.xib in Resources */,
 				E102E031216F6FC400709E56 /* Assets.xcassets in Resources */,
 				E102E02F216F6FC200709E56 /* Main.storyboard in Resources */,
 			);
